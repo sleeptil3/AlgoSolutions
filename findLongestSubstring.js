@@ -15,6 +15,7 @@ EXAMPLES and their RETURNS:
 */
 
 // PROBLEM SOLVING TACTIC USED: Sliding Window
+// DATA STRUCTURE USED: Rudimentary hash table, i.e. no advanced hashing function needed beyond standard JS object
 
 // SOLUTION WITHOUT COMMENTS
 
